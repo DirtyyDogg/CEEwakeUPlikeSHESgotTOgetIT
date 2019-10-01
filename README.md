@@ -4,7 +4,7 @@ Angular 8 Client with User management, User login &amp; User registration | Node
 Install:
 First clone the repository - clone https://github.com/DirtyyDogg/CEEwakeUPlikeSHESgotIT.git
 
-Then cd to CEEwakeUPlikeSHESgotIT
+Then cd to CEEwakeUPlikeSHESgotTOgetIT
 
 Install the dependecies with npm or yarn:
 
